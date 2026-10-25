@@ -5,12 +5,12 @@
 Gemini 3.5 FlashとPyBulletを利用し、 R2D2が障害物を回避しながらゴールへ到達する シミュレーションを作成しました。
 
 ## 動作環境
- -Python 3.11
- -PyBullet
- -Pillow
- -NumPy
- -ImageIO
- -google-genai
+ - Python 3.11
+ - PyBullet
+ - Pillow
+ - NumPy
+ - ImageIO
+ - google-genai
 
 ## 実行方法
 -Gemini APIキーを設定
