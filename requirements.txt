@@ -1,0 +1,6 @@
+
+pybullet
+numpy
+pillow
+imageio
+google-genai

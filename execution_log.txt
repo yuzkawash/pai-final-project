@@ -1,0 +1,186 @@
+[08:40:47] Initialize Complete
+[08:40:52] Instruction=障害物を避けて座標(3,0)へ移動してください
+[08:48:08] Gemini Model=gemini-3.5-flash
+[08:48:29] Instruction=障害物を避けて座標(3,0)へ移動してください
+[08:48:30] Model=gemini-3.5-flash
+[08:48:30] Gemini Response={"goal_x":3,"goal_y":0}
+[08:48:30] Goal=(3.0,0.0)
+[08:48:39] PyBullet Start
+[08:48:39] Simulation Ready
+[08:48:44] Functions Ready
+[08:48:55] COMMAND=forward
+[08:49:23] COMMAND=forward
+[08:49:49] COMMAND=left
+[08:50:17] COMMAND=forward
+[08:50:43] COMMAND=right
+[08:51:10] COMMAND=forward
+[08:51:36] COMMAND=forward
+[08:52:03] COMMAND=forward
+[08:53:47] Video Generation Start
+[08:53:47] COMMAND=forward
+[08:53:47] Execute=forward
+[08:54:58] Video Generation Start
+[08:54:58] COMMAND=forward
+[08:54:58] Execute=forward
+[08:55:25] COMMAND=forward
+[08:55:25] Execute=forward
+[08:55:50] COMMAND=left
+[08:55:50] Execute=left
+[08:56:19] COMMAND=forward
+[08:56:19] Execute=forward
+[08:56:46] COMMAND=right
+[08:56:46] Execute=right
+[08:57:15] COMMAND=forward
+[08:57:15] Execute=forward
+[08:57:43] COMMAND=forward
+[08:57:43] Execute=forward
+[08:58:10] COMMAND=forward
+[08:58:10] Execute=forward
+[08:58:37] Distance=2.13
+[08:58:37] Mission Success=False
+[08:58:37] Frame Count=900
+[08:58:41] Video Saved=ai_robot_demo.mp4
+[08:58:41] execution_log.txt Saved
+[09:01:04] PyBullet Start
+[09:01:13] Video Generation Start
+[09:01:13] COMMAND=forward
+[09:01:13] Execute=forward
+[09:01:33] COMMAND=forward
+[09:01:33] Execute=forward
+[09:01:46] PyBullet Start
+[09:01:56] Video Generation Start
+[09:01:56] COMMAND=forward
+[09:01:56] Execute=forward
+[09:02:18] COMMAND=forward
+[09:02:18] Execute=forward
+[09:02:40] COMMAND=left
+[09:02:40] Execute=left
+[09:03:02] COMMAND=forward
+[09:03:02] Execute=forward
+[09:03:24] COMMAND=right
+[09:03:24] Execute=right
+[09:03:46] COMMAND=forward
+[09:03:46] Execute=forward
+[09:04:08] COMMAND=forward
+[09:04:08] Execute=forward
+[09:04:30] COMMAND=forward
+[09:04:30] Execute=forward
+[09:04:51] Distance=5.27
+[09:04:51] Mission Success=False
+[09:04:51] Frame Count=900
+[09:04:56] Video Saved=ai_robot_demo.mp4
+[09:04:56] execution_log.txt Saved
+[09:10:25] PyBullet Start
+[09:10:25] Simulation Ready
+[09:10:43] Camera Ready
+[09:11:02] Video Generation Start
+[09:11:02] Execute=forward
+[09:11:26] Execute=forward
+[09:11:49] Execute=forward
+[09:12:12] Execute=forward
+[09:12:35] Execute=left
+[09:12:58] Execute=forward
+[09:13:22] Execute=forward
+[09:13:46] Execute=right
+[09:14:09] Execute=forward
+[09:14:32] Execute=forward
+[09:14:56] Execute=forward
+[09:15:19] Distance=1.66
+[09:15:19] Success=False
+[09:21:49] PyBullet Start
+[09:21:49] Simulation Ready
+[09:22:07] Video Generation Start
+[09:22:07] Execute=forward
+[09:22:20] Execute=forward
+[09:22:33] Execute=left
+[09:22:46] Execute=forward
+[09:22:58] Execute=right
+[09:23:11] Execute=forward
+[09:23:23] Execute=forward
+[09:23:36] Execute=forward
+[09:24:10] Distance=1.54
+[09:24:10] Success=False
+[09:28:47] PyBullet Start
+[09:28:47] Simulation Ready
+[09:28:58] Execute=forward
+[09:29:01] Execute=forward
+[09:29:03] Execute=left
+[09:29:06] Execute=forward
+[09:29:08] Execute=right
+[09:29:10] Execute=forward
+[09:29:12] Execute=forward
+[09:35:11] PyBullet Start
+[09:35:11] Simulation Ready
+[09:35:25] Execute=forward
+[09:35:25] Obstacle Detected
+[09:35:28] Execute=forward
+[09:35:28] Obstacle Detected
+[09:35:31] Execute=forward
+[09:35:31] Obstacle Detected
+[09:35:34] Execute=left
+[09:35:37] Execute=forward
+[09:35:37] Obstacle Detected
+[09:35:40] Execute=forward
+[09:35:40] Obstacle Detected
+[09:35:43] Execute=right
+[09:35:45] Execute=forward
+[09:35:45] Obstacle Detected
+[09:35:49] Execute=forward
+[09:35:49] Obstacle Detected
+[09:39:16] PyBullet Start
+[09:39:16] Simulation Ready
+[09:39:27] Move To (0.8,-0.8)
+[09:48:58] Move To (0.8,-0.8)
+[09:51:58] PyBullet Start
+[09:51:58] Simulation Ready
+[09:52:25] Move To (0.8, -0.8)
+[09:52:30] Move To (2.5, -0.8)
+[09:52:38] Move To (3.0, 0.0)
+[09:57:23] Move To (0.8, -0.8)
+[09:57:32] Move To (2.5, -0.8)
+[09:57:39] Move To (3.0, 0.0)
+[09:57:42] Distance=0.00
+[09:57:42] Success=True
+[10:10:54] PyBullet Start
+[10:10:54] Simulation Ready
+[10:19:35] Reached (0.80,-1.00)
+[10:19:48] Reached (2.80,-1.00)
+[10:19:56] Reached (3.50,0.00)
+[10:20:04] Reached (2.80,1.00)
+[10:20:16] Reached (0.80,1.00)
+[10:20:23] Reached (0.00,0.00)
+[10:20:42] Reached (3.00,0.00)
+[10:24:58] PyBullet Start
+[10:24:58] Simulation Ready
+[10:25:56] Reached (0.80,-1.00)
+[10:26:10] Reached (2.80,-1.00)
+[10:26:18] Reached (3.50,0.00)
+[10:26:26] Reached (2.80,1.00)
+[10:26:40] Reached (0.80,1.00)
+[10:26:49] Reached (0.00,0.00)
+[10:27:09] Reached (3.00,0.00)
+[10:28:04] Reached (0.80,-1.00)
+[10:28:17] Reached (2.80,-1.00)
+[10:28:25] Reached (3.50,0.00)
+[10:28:32] Reached (2.80,1.00)
+[10:28:46] Reached (0.80,1.00)
+[10:28:55] Reached (0.00,0.00)
+[10:29:15] Reached (3.00,0.00)
+[10:32:47] Reached (0.80,-1.00)
+[10:33:01] Reached (2.80,-1.00)
+[10:33:09] Reached (3.50,0.00)
+[10:33:18] Reached (2.80,1.00)
+[10:33:31] Reached (0.80,1.00)
+[10:33:41] Reached (0.00,0.00)
+[10:34:01] Reached (3.00,0.00)
+[10:38:09] PyBullet Start
+[10:38:09] Simulation Ready
+[10:44:42] PyBullet Start
+[10:44:42] Simulation Ready
+[10:48:38] PyBullet Start
+[10:48:38] Simulation Ready
+[10:57:29] PyBullet Start
+[10:57:29] Simulation Ready
+[11:07:18] PyBullet Start
+[11:16:00] PyBullet Start
+[11:16:00] Simulation Ready
